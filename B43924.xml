@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinburgh, October 20. 1648. The Committee of Estates considering how necessary it is that some orderly course be taken how the forces to be kept up within this kingdom may be entertained by the publick, with as little burthen as may be to the country ...</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43924</idno><idno type="EEBO-CITATION">489265458</idno>
+  <idno type="VID">208713</idno>
+  <idno type="EEBO-PROQUEST">2240881413</idno>
+  
+            <idno type="OCLC"> 489265458</idno>
+            <idno type="OCLC">ocn 489265458</idno>
+            <idno type="STC">Wing S1192B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208713)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2957:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinburgh, October 20. 1648. The Committee of Estates considering how necessary it is that some orderly course be taken how the forces to be kept up within this kingdom may be entertained by the publick, with as little burthen as may be to the country ...</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, printer to the Kings Most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from caption title and first lines of text.</note>
+                  <note>Signed: Tho. Henderson.</note>
+                  <note>Initial, print ornament headpiece.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208713:1"/>
+            <pb facs="tcp:208713:2"/>
+            <head>EDINBURGH, <hi>October</hi> 20. 1648.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Committee of Estates considering how necessary it is that some orderly course be taken how the Forces to be kept up within this Kingdom may be entertained by the publick, with as little burthen as may be to the Country; Have therefore thought fit that a proportionable part of the Maintenance due by the Shires shall be particularly assigned to each Regiment or Troop for their entertainment: And for that end the Committee appoints the maintenance due out of the Shyres of</p>
+            <p>To be allowed for entertainment of the Regiment or Troop which should consist of <gap reason="blank" extent="1+ words">
+                  <desc> _____ </desc>
+               </gap>
+            </p>
+            <p>And to the effect that neither the Publick be prejudged by paying more Souldiers then actually they have on foot, and that the Souldiers also want none of their due: The Committee ordains that there be a Muster of the several Regiments and Troops, and upon attestation from the Muster-Master of their particular numbers, that the Generall Commissary and his Deputies accordingly give out particular assignations upon so much of the Maintenance of the Shires aforesaid, as will fall due for their entertainment for the space of one moneth, and after the expiring of that time, the Muster-Master shall take new tryall of the number of the Souldiers, and the Collectors shall also try whether they have lifted more nor was assigned, and give attestation thereof, upon report whereof the Generall Commissary is to renew Orders for their assignations according to the number attested, and where there is more lifted nor was as<g ref="char:EOLhyphen"/>signed, he is to give assignations for no more nor what shall be found then due the whole intromission being compted; And the Committee also is to take course for the ease and reparation of the Shires so oppressed and burthened: And the Generall Commissary hath hereby power and direction to renew orders for assignations every moneth, from time to time in manner above expressed, untill he be discharged by the Committee of Estates; And to the end the Souldiers may be the more orderly paid, and the Country people kept from oppression: The Committee appoints the Maintenance assigned to any Regiment or Troop to be lifted up in manner after following, <hi>viz.</hi> That the Officer of the Regiment or Troop shall intimate this their Assignement received from the General Commissary unto the Committee of War in the Shire or Shires respectively, and unto the Collectors thereof, and desire them to advance in moneys, or give them surety for the paying to them the first fortnights pay, from the time of their entry set down in their locality; And that the Committee of War by some of their number, or others, or by their Collectors, will give them Band for to advance unto them the first day of every fortnight thereafter, their fortnights means, which if the Committee of War by themselves, their Collectors or others bin<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for and perform: The Committee of Estates doth absolutely discharge any Officer or Souldier belonging to that Regiment or Troop to take any free quarter within that Shire, but seeing they are orderly paid by the Shire, they shall orderly pay for whatsoever they take, With certification that if upon com<g ref="char:EOLhyphen"/>plaint verified to the Officers, he do not make reparation of the wrong, and condignely punish the offender, the Offi<g ref="char:EOLhyphen"/>cer shall be cashiered with infamy, and be obliged to satisfie the party; Likeas, the Committee Ordains the Officers of that Regiment or Troop having that locality, to furnish what assistance shall be craved by the Committee of War, or by these who are bound for them, that they may exact what is due by any deficient for their relief, with allowance of Free quarter to these who are bound to this service, so imployed by them upon the deficient his Lands untill he be pay<g ref="char:EOLhyphen"/>ed: But upon the other party, if the Committee of War in the Shires, after this intimation made by the Officers, shall refuse to give surety, by themselves or their Collectors, or by some others in this orderly way, to advance a fortnights means, from fortninght to fortnight, or if giving the security, they shall fail in the performance: In these cases the Com<g ref="char:EOLhyphen"/>mittee of Estates gives power and Warrant to the Officers of that Regiment or Troop, for to appoint any of themselves or any other they think fit to lift up the maintenance due by the bonds assigned to them, and for to have Free Quarter upon all such deficients as will not advance unto them, or give them surety for to pay duly their maintenance the first day of every fortnight, untill they get satisfaction therein; but withall, absolutely dischargeth them to trouble any, or quarter upon any who thus advanceth or secureth to them what is their due, to be payed at the beginning of every fort<g ref="char:EOLhyphen"/>night: And Ordains this to be published at the Market Crosse of <hi>Edinburgh,</hi> and other places needfull, and also to be Printed.</p>
+            <closer>
+               <signed>THO. HENDERSON.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by EVAN TYLER, Printer to the Kings most Excellent MAJESTY, <hi>Anno Dom.</hi> 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
